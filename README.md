@@ -48,8 +48,9 @@ Compile the Java files using a Java compiler.
 <br>
 Run the Main class
 ## Contact Information ##
-Name: Akash Pal
-Email Id: akashpal91522@gmail.com
+Name: Akash Pal<br>
+Mobile Num:9321365436
+Email Id: akashpal91522@gmail.com<br>
 Linkedin: https://www.linkedin.com/in/akash-pal113/
 
 
