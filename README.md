@@ -30,6 +30,7 @@ Utilize the displayEmployees method in PayrollSystem to show the current list of
 import java.util.ArrayList;
 
 //code snippet for Employee Class
+<br>
 abstract class Employee{
 
     private String name;
@@ -55,6 +56,7 @@ abstract class Employee{
 
 
 //code snippet for FullTimeEmployee Class
+<br>
 class FullTimeEmployee extends Employee{
     private double monthlySalary;
 
@@ -71,6 +73,7 @@ class FullTimeEmployee extends Employee{
 }
 
 //code snippet for PartTimeEmployee Class
+<br>
 class PartTimeEmployee extends Employee{
 
     private int hourWorked;
@@ -88,6 +91,7 @@ class PartTimeEmployee extends Employee{
 }
 
 //code snippet for Payroll System
+<br>
 class PayrollSystem{
     private ArrayList<Employee> employeeList;
 
@@ -120,6 +124,7 @@ class PayrollSystem{
 }
 
 //code snippet for main Method
+<br>
 public class Main {
     public static void main(String[] args) {
         PayrollSystem payrollSystem=new PayrollSystem();
