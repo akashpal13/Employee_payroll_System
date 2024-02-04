@@ -44,7 +44,13 @@ Utilize the displayEmployees method in PayrollSystem to show the current list of
 
 
 ## Build and Run Instructions ##
-## Acknowledgments ##
+Compile the Java files using a Java compiler.
+<br>
+Run the Main class
 ## Contact Information ##
+Name: Akash Pal
+Email Id: akashpal91522@gmail.com
+Linkedin: https://www.linkedin.com/in/akash-pal113/
+
 
 
