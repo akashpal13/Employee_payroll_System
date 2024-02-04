@@ -27,6 +27,22 @@ Use the removeEmployee method in PayrollSystem by providing the employee's ID.
 ### Displaying Employees:###
 Utilize the displayEmployees method in PayrollSystem to show the current list of employees.
 ## Code Snippets ##
+// Code snippet for Employee class
+// ...
+
+// Code snippet for FullTimeEmployee class
+// ...
+
+// Code snippet for PartTimeEmployee class
+// ...
+
+// Code snippet for PayrollSystem class
+// ...
+
+// Code snippet for Main class
+// ...
+
+
 ## Build and Run Instructions ##
 ## Acknowledgments ##
 ## Contact Information ##
