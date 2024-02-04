@@ -133,7 +133,7 @@ public class Main {<br>
     public static void main(String[] args) {<br>
         PayrollSystem payrollSystem=new PayrollSystem();<br>
         FullTimeEmployee fullTimeEmployee=new FullTimeEmployee("Akash",1,60000);<br>
-        PartTimeEmployee partTimeEmployee=new PartTimeEmployee("Shinu",2,8,200);<br>
+        PartTimeEmployee partTimeEmployee=new PartTimeEmployee("Shinu",2,8,200);<br>\
 
         payrollSystem.addEmployee(fullTimeEmployee);
         payrollSystem.addEmployee(partTimeEmployee);
