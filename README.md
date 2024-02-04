@@ -31,6 +31,7 @@ import java.util.ArrayList;
 
 //code snippet for Employee Class
 <br>
+<br>
 abstract class Employee{
 
     private String name;
@@ -57,7 +58,9 @@ abstract class Employee{
 
 //code snippet for FullTimeEmployee Class
 <br>
+<br>
 class FullTimeEmployee extends Employee{
+<br>
     private double monthlySalary;
 
     public FullTimeEmployee(String name, int id, double monthlySalary){
@@ -93,6 +96,7 @@ class PartTimeEmployee extends Employee{
 //code snippet for Payroll System
 <br>
 class PayrollSystem{
+<br>
     private ArrayList<Employee> employeeList;
 
     public PayrollSystem(){
@@ -125,11 +129,11 @@ class PayrollSystem{
 
 //code snippet for main Method
 <br>
-public class Main {
-    public static void main(String[] args) {
-        PayrollSystem payrollSystem=new PayrollSystem();
-        FullTimeEmployee fullTimeEmployee=new FullTimeEmployee("Akash",1,60000);
-        PartTimeEmployee partTimeEmployee=new PartTimeEmployee("Shinu",2,8,200);
+public class Main {<br>
+    public static void main(String[] args) {<br>
+        PayrollSystem payrollSystem=new PayrollSystem();<br>
+        FullTimeEmployee fullTimeEmployee=new FullTimeEmployee("Akash",1,60000);<br>
+        PartTimeEmployee partTimeEmployee=new PartTimeEmployee("Shinu",2,8,200);<br>
 
         payrollSystem.addEmployee(fullTimeEmployee);
         payrollSystem.addEmployee(partTimeEmployee);
